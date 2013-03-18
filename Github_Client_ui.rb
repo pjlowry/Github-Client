@@ -1,5 +1,5 @@
 require 'activerecord'
-require 'activerecord'
+require ''
 
 
 GITHUB_USERNAME = 'pjlowry'
