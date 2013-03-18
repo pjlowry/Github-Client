@@ -1,3 +1,10 @@
+require 'activerecord'
+require 'activerecord'
+
+
+GITHUB_USERNAME = 'pjlowry'
+GITHUB_PASSWORD = 'spring00'
+
 def welcome
   puts "Welcome to the Github command-line client."
   menu
